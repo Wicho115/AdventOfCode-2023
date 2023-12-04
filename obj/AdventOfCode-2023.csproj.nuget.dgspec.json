@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Wicho\\Proyectos\\Programacion\\C#\\AdventOfCode-2023\\1\\1.csproj": {}
+    "D:\\Wicho\\Proyectos\\Programacion\\C#\\AdventOfCode-2023\\AdventOfCode-2023.csproj": {}
   },
   "projects": {
-    "D:\\Wicho\\Proyectos\\Programacion\\C#\\AdventOfCode-2023\\1\\1.csproj": {
+    "D:\\Wicho\\Proyectos\\Programacion\\C#\\AdventOfCode-2023\\AdventOfCode-2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Wicho\\Proyectos\\Programacion\\C#\\AdventOfCode-2023\\1\\1.csproj",
-        "projectName": "1",
-        "projectPath": "D:\\Wicho\\Proyectos\\Programacion\\C#\\AdventOfCode-2023\\1\\1.csproj",
+        "projectUniqueName": "D:\\Wicho\\Proyectos\\Programacion\\C#\\AdventOfCode-2023\\AdventOfCode-2023.csproj",
+        "projectName": "AdventOfCode-2023",
+        "projectPath": "D:\\Wicho\\Proyectos\\Programacion\\C#\\AdventOfCode-2023\\AdventOfCode-2023.csproj",
         "packagesPath": "C:\\Users\\luigi\\.nuget\\packages\\",
-        "outputPath": "D:\\Wicho\\Proyectos\\Programacion\\C#\\AdventOfCode-2023\\1\\obj\\",
+        "outputPath": "D:\\Wicho\\Proyectos\\Programacion\\C#\\AdventOfCode-2023\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
